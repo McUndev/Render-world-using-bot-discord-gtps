@@ -1,0 +1,13 @@
+{
+
+  "prefix": "b!",
+
+  "token": "YOUR_BOT_TOKEN",
+  "guild": "./DATA_BASE/guilds",
+  "player": "./DATA_BASE/players",
+  "world": "./DATA_BASE/worlds",
+  "channel": "YOUR_CHANNEL_ID",
+  "role_id": "YOUR_ROLE_ID",
+  "db_directory": "DATA_BASE/"
+
+}
